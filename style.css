@@ -1,0 +1,21 @@
+
+        body {
+            background-image: url('images/erik-mclean--VaiKXZs4PA-unsplash.jpg');
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            padding: 2%;
+        }
+
+        .table{
+            background-color: antiquewhite;
+            padding: 30px 0px;
+        }
+        .box {
+            border-right: 2px solid;
+        }
+        footer p{
+            color: white;
+            font-size: 35px;
+            text-align: center;
+        }
